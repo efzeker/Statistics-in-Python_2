@@ -1,4 +1,4 @@
 # Statistical Analysis in Python
 
-This project will display a Python statistical analysis deployed in a website. It uses Python to make a descriptive analysis about the sales in a year, of a company that markets products in twenty point sales in three cities.
+This project will will show a statistical analysis in Python implemented on a website. It uses Python to perform a descriptive analysis on sales in one year, of a company that sells products in twenty points of sale in three cities.
 
