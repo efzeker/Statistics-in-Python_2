@@ -3,7 +3,7 @@
 This project will will show a statistical analysis in Python implemented on a website. It uses Python to perform a descriptive analysis with interactive interface on sales in one year, of a company that sells seven products in twenty points of sale in three cities.
 
 In process...
-I upload my draft
+I upload my charts
 
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Ftry1.png?alt=media&token=9548c62a-6fcf-4070-a539-5f2a8e559653" />
 <img src="https://firebasestorage.googleapis.com/v0/b/dexterprojectid.appspot.com/o/clientes%2Ftry2.png?alt=media&token=81402706-d542-482a-b55b-7dc7bd16ba65" />
